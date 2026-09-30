@@ -2,3 +2,6 @@
 /data/
 /src/
 .DS_Store
+nPest.py
+problem_set_4_code.ipynb
+__pycache__
